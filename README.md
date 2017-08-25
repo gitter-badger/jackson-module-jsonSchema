@@ -1,5 +1,7 @@
 # Jackson [JSON Schema](http://json-schema.org/) Module
 
+[![Join the chat at https://gitter.im/jackson-module-jsonSchema/Lobby](https://badges.gitter.im/jackson-module-jsonSchema/Lobby.svg)](https://gitter.im/jackson-module-jsonSchema/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This module supports the creation of a JSON Schema (v3)
 This module is intended to be an upgrade path from the hardcoded JSON Schema generation 
 currently in jackson databind (pre 2.1), in order to allow for the generation of arbitrary formats specifying the expected output from a particular jackson enabled application.
